@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class minimum{
+public class Minimum{
     public static void main(String[] args) {
         int n1, n2, n3, min;
         Scanner sc = new Scanner(System.in);
