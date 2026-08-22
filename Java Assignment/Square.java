@@ -6,3 +6,4 @@ class Square{
             System.out.println(n*n);
     }
 }
+ 
