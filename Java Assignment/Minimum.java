@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Minimum{
     public static void main(String[] args) {
-        int n1, n2, n3, min;
+        int n1, n2, n3;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter any three diffrent numbers:");
         n1 = sc.nextInt();
