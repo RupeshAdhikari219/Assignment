@@ -12,7 +12,7 @@ public class max {
             max=n2;
         if(n3>max)
             max=n3;
-        System.out.println("Maximum among 3 numbers is " + max);
+        System.out.println("Maximum among 3 numbers is " + max);    
         sc.close();
     }
 }
